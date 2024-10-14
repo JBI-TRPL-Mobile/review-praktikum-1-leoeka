@@ -3,15 +3,16 @@
 
 A new Flutter project.
 
-## Getting Started
+# Pratikum pemograman mobile 
 
-This project is a starting point for a Flutter application.
+# hasil akhir ![Alt text](image.png) 
 
-A few resources to get you started if this is your first Flutter project:
+# Tampilan home ![Alt text](image-1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Tampilan ketika ditekan tombol detail ![Alt text](image-2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tampilan ketika ditekan tombol tentang aplikasi ![Alt text](image-3.png)
+
+# Ada tambahan di bagian drawner ![Alt text](image-4.png)
+
+# penjelasan (Pemrograman mobile untuk aplikasi daftar buku melibatkan berbagai aspek, mulai dari pengembangan frontend dan backend hingga desain UI/UX dan distribusi aplikasi. Dengan menggunakan framework modern seperti Flutter, pengembang dapat menciptakan aplikasi yang menarik dan fungsional, memberikan pengalaman pengguna yang memuaskan dan memenuhi kebutuhan pengguna dalam menjelajahi dan mencari informasi buku.)
